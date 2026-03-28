@@ -1,0 +1,10 @@
+# Autores y colaboradores
+
+## Idea original y concepto
+- José Montero Muñoz (Arquitecto de Sistemas)
+
+## Articulación, estructuración y código base
+- DeepSeek (IA de código abierto)
+
+## Contribuciones posteriores
+(Se irá añadiendo a cada persona que colabore)

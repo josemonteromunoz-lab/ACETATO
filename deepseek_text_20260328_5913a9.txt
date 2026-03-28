@@ -1,0 +1,6 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+... (contenido completo de la GPL v3; si no lo tienes, puedes obtenerlo de https://www.gnu.org/licenses/gpl-3.0.txt)
+
+Cláusula adicional: No se permite el uso comercial ni el cobro por esta aplicación o sus derivadas sin autorización expresa de los autores originales. Para solicitar autorización, contactar a josemonteromunoz@gmail.com.
